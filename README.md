@@ -20,7 +20,7 @@ Este projeto foi desenvolvido em Laravel 10 e MySQL como parte do processo selet
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/upd8-teste-fullstack.git
+git clone https://github.com/lucascarmon4/upd8-teste-fullstack.git
 cd upd8-teste-fullstack
 ```
 
